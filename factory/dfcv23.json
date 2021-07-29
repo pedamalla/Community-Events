@@ -1,0 +1,9 @@
+{
+	"name": "dfcv23",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f733f0dd-e35e-4b1e-9c7c-3277ae70868c",
+		"tenantId": "94a4f402-a255-4e79-a770-6edeea3611ca"
+	}
+}
