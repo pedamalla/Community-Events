@@ -1,0 +1,9 @@
+{
+	"name": "kudo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ba55305-3a27-4d31-bd2b-28486860520f",
+		"tenantId": "94a4f402-a255-4e79-a770-6edeea3611ca"
+	}
+}
